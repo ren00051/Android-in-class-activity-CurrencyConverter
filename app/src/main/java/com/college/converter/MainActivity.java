@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     static private final Float CONVERSION_RATE = 0.80F;
     private static final String TAG = "MainActivity"; // Tag for log messages
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
